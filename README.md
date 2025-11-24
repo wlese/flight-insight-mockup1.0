@@ -1,3 +1,5 @@
+Initial commit
+
 <div align="center"><strong>Next.js 15 Admin Dashboard Template</strong></div>
 <div align="center">Built with the Next.js App Router</div>
 <br />
